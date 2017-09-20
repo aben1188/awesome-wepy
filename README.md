@@ -1,4 +1,4 @@
-## 微信小程序wepy开发框架第三方组件仓库
+## 微信小程序wepy开发框架第三方组件汇总
 ### **awesome-wepy-component，awesome component for wepy！**
 
 - [ wepy框架官方仓库 ](https://github.com/wepyjs/wepy)
