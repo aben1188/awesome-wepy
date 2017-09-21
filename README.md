@@ -1,8 +1,8 @@
 ## 微信小程序wepy开发资源汇总
 ### **awesome-wepy，awesome for wepy！**
 
-- [ wepy微信小程序开发框架官方仓库 ](https://github.com/wepyjs/wepy)
-- [ wepy微信小程序开发框架官方文档 ](https://wepyjs.github.io/wepy/#/)
+- [ wepy官方仓库 ](https://github.com/wepyjs/wepy)
+- [ wepy官方文档 ](https://wepyjs.github.io/wepy/#/)
 
 ---
 
