@@ -38,7 +38,7 @@
 	- [ convert-wxapp：微信小程序，用户图片文字识别，基于Wepy开发 ](https://github.com/SlowRookie/convert-wxapp)
 	- [ generator-wepy-component：Yeoman generator for wepy component ](https://github.com/afeiship/generator-wepy-component)
 
-### 文章
+### 相关文章
 
 - [张所勇(20170822): 像VUE一样写微信小程序-深入研究wepy框架](https://mp.weixin.qq.com/s/R2IlOzlA9Mb_XevDXAITdw)
 - [Gcaufy(20170819): WePY为了兼容支付宝小程序，改了好几十行代码](https://mp.weixin.qq.com/s/8Lbxz1XgqM4pyfsxrvdPUQ)
