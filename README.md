@@ -25,7 +25,6 @@
 	- [ wepy-flexbox-grid：Flexbox grid system for wepy/weapp/wechat. ](https://github.com/afeiship/wepy-flexbox-grid)
 	- [ spore-wepy-tipbox：类toast提示窗口，但只显示文字，可调整显示位置。用于小程序wepy框架 ](https://github.com/SporeUI/spore-wepy-tipbox)
 	- [ leshare-map-weapp：基于微信小程序的地图展现工具，使用wepy框架及weui样式开发 ](https://github.com/coolhwm/leshare-map-weapp)
-<br/><br/>
 
 - **功能类组件**
 
