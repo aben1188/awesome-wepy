@@ -8,7 +8,8 @@
 
 ### 开源项目
 
-- [wepy-demo-bookmall ![wepy-demo-bookmall](https://img.shields.io/github/stars/Thunf/wepy-demo-bookmall.svg?label=%E2%98%85) ：微信小程序🐼📖代码示例，使用wepy框架及weui样式开发](https://github.com/Thunf/wepy-demo-bookmall)
+- [深大的树洞：基于wepy开发的树洞类微信小程序](https://github.com/jas0ncn/szushudong)
+- [wepy-demo-bookmall：微信小程序🐼📖代码示例，使用wepy框架及weui样式开发](https://github.com/Thunf/wepy-demo-bookmall)
 
 （整理中，请稍等一段时间......）
 
