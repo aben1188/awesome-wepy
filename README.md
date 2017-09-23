@@ -15,6 +15,7 @@
 - [wepy-one：微信小程序one(wepy版本)](https://github.com/huangang/wepy-one)
 - [wepy-books：微信小程序wepy版图书管理系统](https://github.com/KingJeason/wepy-books)
 - [wxYuHanStore：基于wepy开发的商城(微店)微信小程序](https://github.com/dyq086/wxYuHanStore)
+- [wepy-Jz：使用wepy框架开发的电商类小程序](https://github.com/jielanglang/wepy-Jz)
 
 ### 开源组件
  
