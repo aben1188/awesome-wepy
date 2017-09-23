@@ -13,6 +13,8 @@
 - [leshare-seller-wepy：基于小程序的电商卖家端，采用wepy框架开发](https://github.com/coolhwm/leshare-seller-wepy)
 - [leshare-food-wepy：基于微信小程序的外卖店铺，采用wepy框架开发](https://github.com/coolhwm/leshare-food-wepy)
 - [wepy-one：微信小程序one(wepy版本)](https://github.com/huangang/wepy-one)
+- [wepy-books：微信小程序wepy版图书管理系统](https://github.com/KingJeason/wepy-books)
+- [wxYuHanStore：基于wepy开发的商城(微店)微信小程序](https://github.com/dyq086/wxYuHanStore)
 
 ### 开源组件
  
