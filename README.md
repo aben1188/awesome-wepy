@@ -16,6 +16,7 @@
 - [wepy-books：微信小程序wepy版图书管理系统](https://github.com/KingJeason/wepy-books)
 - [wxYuHanStore：基于wepy开发的商城(微店)微信小程序](https://github.com/dyq086/wxYuHanStore)
 - [wepy-Jz：使用wepy框架开发的电商类小程序](https://github.com/jielanglang/wepy-Jz)
+- [cardiovascular-tracker：使用wepy框架开发的心血管健康助理小程序](https://github.com/hjkcai/cardiovascular-tracker)
 
 ### 开源组件
  
