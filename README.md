@@ -36,7 +36,9 @@
 
 - **功能类组件**
 
-	- [ wepy-plugin-img2base64：小程序组件化开发框架WePy插件 ](https://github.com/xwxtwd/wepy-plugin-img2base64)
+	- [ wepy-upyun_upload-component：微信小程序又拍云上传组件wepy版 ](https://github.com/aben1188/wepy-upyun_upload-component)
+	- [ wepy-login_relogin-component：微信小程序登录及重新二次登录组件wepy版  ](https://github.com/aben1188/wepy-login_relogin-component)
+	- [ wepy-plugin-img2base64：小程序图片转base64的WePy插件 ](https://github.com/xwxtwd/wepy-plugin-img2base64)
 	- [ wepy-com-datepicker：微信小程序预约时间组件 ](https://github.com/jasondu/wepy-com-datepicker)
 	- [ wepy-plugin-autoprefixer：wepy框架autoprefixer插件](https://github.com/li-xianfeng/wepy-plugin-autoprefixer)
 	- [ wepy-uploader：Uploader for wechat/weapp based on wepy](https://github.com/afeiship/wepy-uploader)
