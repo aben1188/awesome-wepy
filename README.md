@@ -26,6 +26,7 @@
 
 	- [ wepy-weui-demo：WeUI在WePY中的使用示例，同一份代码可以运行在小程序上和Web上 ](https://github.com/wepyjs/wepy-weui-demo)
 	- [ wepy-zanui-demo：基于zanui-weapp移植的一套wepy界面框架 ](https://github.com/brucx/wepy-zanui-demo)
+	- [ wepy-X-minui：蘑菇街minui小程序UI组件库wepy版 ](https://github.com/jimmyrogue/wepy-X-minui)
 	- [ wepy-com-toast：微信小程序toast组件 ](https://github.com/wepyjs/wepy-com-toast)
 	- [ wepy-com-charts：基于微信小程序canvas的图表控件，适用于wepy框架 ](https://github.com/CalvinHong/wepy-com-charts)
 	- [ wepy-com-toptip：a toptip component for 小程序~ ](https://github.com/ochukai/wepy-com-toptip)
