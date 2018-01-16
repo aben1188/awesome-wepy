@@ -33,6 +33,7 @@
 	- [ wepy-com-swiper：微信小程序触摸内容滑动解决方案，适用于wepy框架 ](https://github.com/dlhandsome/wepy-com-swiper)
 	- [ wepy-com-antdM：wepy's component, ui design by antd-mobile ](https://github.com/XylitolLin/wepy-com-antdM)
 	- [ wepy-com-selectab：微信小程序标签选择组件，适用于数量等某些单选操作 ](https://github.com/ColMugX/wepy-com-selectab)
+	- [ wepy-com-pwdfield：微信小程序明密文输入框组件，适用于支付密码/房间号/验证码输入 ](https://github.com/ColMugX/wepy-com-pwdfield)
 	- [ wepy-swipe-delete：微信小程序框架wepy-滑动删除插件 ](https://github.com/GeoffZhu/wepy-swipe-delete)
 	- [ wepy-flexbox-grid：Flexbox grid system for wepy/weapp/wechat. ](https://github.com/afeiship/wepy-flexbox-grid)
 	- [ spore-wepy-tipbox：类toast提示窗口，但只显示文字，可调整显示位置。用于小程序wepy框架 ](https://github.com/SporeUI/spore-wepy-tipbox)
