@@ -19,6 +19,7 @@
 - [wxYuHanStore：基于wepy开发的商城(微店)微信小程序](https://github.com/dyq086/wxYuHanStore)
 - [wepy-Jz：使用wepy框架开发的电商类小程序](https://github.com/jielanglang/wepy-Jz)
 - [cardiovascular-tracker：使用wepy框架开发的心血管健康助理小程序](https://github.com/hjkcai/cardiovascular-tracker)
+- [TypeScript-demo: 微信小程序 typescript 框架](https://github.com/MMF-FE/wepy-template)
 
 ### 开源组件
  
