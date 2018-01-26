@@ -38,7 +38,8 @@
 	- [ leshare-map-weapp：基于微信小程序的地图展现工具，使用wepy框架及weui样式开发 ](https://github.com/coolhwm/leshare-map-weapp)
 	- [ wepy-calendar：基于wepy 的日历组件 ](https://github.com/callmesoul/wepy-calendar)
 	- [ wepy-corpper：基于wepy 的图片裁剪组件 ](https://github.com/callmesoul/wepy-corpper)
-
+	
+	
 - **功能类组件**
 
 	- [ wepy-upyun_upload-component：微信小程序又拍云上传组件wepy版 ](https://github.com/aben1188/wepy-upyun_upload-component)
