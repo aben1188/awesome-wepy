@@ -54,6 +54,7 @@
 ### 相关工具
 - [WeWeb：兼容微信小程序语法(包括wepy语法)的Web框架](https://github.com/wdfe/weweb)
 - [wepy-plugin-autoprefixer：wepy框架autoprefixer插件](https://github.com/li-xianfeng/wepy-plugin-autoprefixer)
+- [wxss2less](https://github.com/stiekel/wxss2less) wxss 文件批量重命名 less 的小工具
 
 ### 相关文章
 
