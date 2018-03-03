@@ -55,6 +55,7 @@
 	- [ wepy-plugin-img2base64：小程序组件化开发框架WePy插件](https://github.com/xwxtwd/wepy-plugin-img2base64)
 	- [ convert-wxapp：微信小程序，用户图片文字识别，基于Wepy开发 ](https://github.com/SlowRookie/convert-wxapp)
 	- [ generator-wepy-component：Yeoman generator for wepy component ](https://github.com/afeiship/generator-wepy-component)
+	- [ redux-persist-weapp-storage：Redux-persist storage engine for weapp/wepy ](https://github.com/cuijiemmx/redux-casa/tree/master/packages/redux-persist-weapp-storage)
 
 ### 相关工具
 - [WeWeb：兼容微信小程序语法(包括wepy语法)的Web框架](https://github.com/wdfe/weweb)
