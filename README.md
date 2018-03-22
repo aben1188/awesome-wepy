@@ -1,4 +1,4 @@
-## 微信小程序wepy开发资源汇总 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+## 微信小程序wepy框架开发资源汇总 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ### **awesome-wepy，awesome for wepy！**
 
 - [ wepy官方仓库 ](https://github.com/Tencent/wepy)
