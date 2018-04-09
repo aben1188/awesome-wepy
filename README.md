@@ -65,6 +65,9 @@
 - [wepy-plugin-autoprefixer：wepy框架autoprefixer插件](https://github.com/li-xianfeng/wepy-plugin-autoprefixer)
 - [wxss2less：wxss文件批量重命名为less的小工具](https://github.com/stiekel/wxss2less) 
 - [wepy-template: 微信小程序模板框架wepy版，支持TypeScript](https://github.com/MMF-FE/wepy-template)
+- [wepy-compiler-styl: 微信小程序模板框架wepy版，更好的支持stylus的高级特性](https://github.com/fengxinming/wepy-compiler-stylus)
+- [wepy-compiler-jade: 微信小程序模板框架wepy版，修复官方的wepy-compiler-pug的遗留BUG](https://github.com/fengxinming/wepy-compiler-jade)
+- [wepy-compiler-view: 微信小程序模板框架wepy版，支持更多的模板解析](https://github.com/fengxinming/wepy-compiler-view)
 
 ### 相关文章
 
