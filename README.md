@@ -21,6 +21,7 @@
 - [cardiovascular-tracker：使用wepy框架开发的心血管健康助理小程序](https://github.com/hjkcai/cardiovascular-tracker)
 - [we川大：使用wepy框架开发的校园综合类小程序](https://github.com/mohuishou/scuplus-wechat)
 - [weapp-hiapp：使用wepy+zanui+redux开发的社区类小程序开源版](https://github.com/BelinChung/weapp-hiapp)
+- [wepy-jmgs：使用wepy+七牛云开发的音视频社交小程序(server代码开源)](https://github.com/g1mi/jmgs)
 
 ### 开源组件
  
