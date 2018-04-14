@@ -46,7 +46,7 @@
 	- [ wepy-com-loadings：基于Wepy开发的微信小程序loading加载动画组件 ](https://github.com/Licoy/wepy-com-loadings)
 	
 - **功能类组件**
-
+	- [ wepyx: 基于 redux 的数据层管理框架 ](https://github.com/tolerance-go/wepyx)
 	- [ wepy-upyun_upload-component：微信小程序又拍云上传组件wepy版 ](https://github.com/aben1188/wepy-upyun_upload-component)
 	- [ wepy-login_relogin-component：微信小程序登录及重新二次登录组件wepy版  ](https://github.com/aben1188/wepy-login_relogin-component)
 	- [ wepy-plugin-img2base64：小程序图片转base64的WePy插件 ](https://github.com/xwxtwd/wepy-plugin-img2base64)
