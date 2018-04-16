@@ -63,10 +63,14 @@
 	- [ weapp-qrcode：在微信小程序中，快速生成二维码 ](https://github.com/yingye/weapp-qrcode)
 
 ### 相关工具
+
 - [WeWeb：兼容微信小程序语法(包括wepy语法)的Web框架](https://github.com/wdfe/weweb)
 - [wepy-plugin-autoprefixer：wepy框架autoprefixer插件](https://github.com/li-xianfeng/wepy-plugin-autoprefixer)
 - [wxss2less：wxss文件批量重命名为less的小工具](https://github.com/stiekel/wxss2less) 
 - [wepy-template: 微信小程序模板框架wepy版，支持TypeScript](https://github.com/MMF-FE/wepy-template)
+- [wepy-compiler-styl: 微信小程序模板框架wepy版，更好的支持stylus的高级特性](https://github.com/fengxinming/wepy-compiler-stylus)
+- [wepy-compiler-jade: 微信小程序模板框架wepy版，修复官方的wepy-compiler-pug的遗留BUG](https://github.com/fengxinming/wepy-compiler-jade)
+- [wepy-compiler-view: 微信小程序模板框架wepy版，支持更多的模板解析](https://github.com/fengxinming/wepy-compiler-view)
 - [wepy-plugin-px2units：wepy框架px2units插件，将px转换为rpx](https://github.com/yingye/wepy-plugin-px2units)
 
 ### 相关文章
