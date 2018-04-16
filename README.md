@@ -21,6 +21,7 @@
 - [cardiovascular-tracker：使用wepy框架开发的心血管健康助理小程序](https://github.com/hjkcai/cardiovascular-tracker)
 - [we川大：使用wepy框架开发的校园综合类小程序](https://github.com/mohuishou/scuplus-wechat)
 - [weapp-hiapp：使用wepy+zanui+redux开发的社区类小程序开源版](https://github.com/BelinChung/weapp-hiapp)
+- [wepy-jmgs：使用wepy+七牛云开发的音视频社交小程序(server代码开源)](https://github.com/g1mi/jmgs)
 
 ### 开源组件
  
@@ -46,7 +47,7 @@
 	- [ wepy-com-loadings：基于Wepy开发的微信小程序loading加载动画组件 ](https://github.com/Licoy/wepy-com-loadings)
 	
 - **功能类组件**
-
+	- [ wepyx: 基于 redux 的数据层管理框架 ](https://github.com/tolerance-go/wepyx)
 	- [ wepy-upyun_upload-component：微信小程序又拍云上传组件wepy版 ](https://github.com/aben1188/wepy-upyun_upload-component)
 	- [ wepy-login_relogin-component：微信小程序登录及重新二次登录组件wepy版  ](https://github.com/aben1188/wepy-login_relogin-component)
 	- [ wepy-plugin-img2base64：小程序图片转base64的WePy插件 ](https://github.com/xwxtwd/wepy-plugin-img2base64)
@@ -59,8 +60,10 @@
 	- [ convert-wxapp：微信小程序，用户图片文字识别，基于Wepy开发 ](https://github.com/SlowRookie/convert-wxapp)
 	- [ generator-wepy-component：Yeoman generator for wepy component ](https://github.com/afeiship/generator-wepy-component)
 	- [ redux-persist-weapp-storage：Redux-persist storage engine for weapp/wepy ](https://github.com/cuijiemmx/redux-casa/tree/master/packages/redux-persist-weapp-storage)
+	- [ weapp-qrcode：在微信小程序中，快速生成二维码 ](https://github.com/yingye/weapp-qrcode)
 
 ### 相关工具
+
 - [WeWeb：兼容微信小程序语法(包括wepy语法)的Web框架](https://github.com/wdfe/weweb)
 - [wepy-plugin-autoprefixer：wepy框架autoprefixer插件](https://github.com/li-xianfeng/wepy-plugin-autoprefixer)
 - [wxss2less：wxss文件批量重命名为less的小工具](https://github.com/stiekel/wxss2less) 
@@ -68,6 +71,7 @@
 - [wepy-compiler-styl: 微信小程序模板框架wepy版，更好的支持stylus的高级特性](https://github.com/fengxinming/wepy-compiler-stylus)
 - [wepy-compiler-jade: 微信小程序模板框架wepy版，修复官方的wepy-compiler-pug的遗留BUG](https://github.com/fengxinming/wepy-compiler-jade)
 - [wepy-compiler-view: 微信小程序模板框架wepy版，支持更多的模板解析](https://github.com/fengxinming/wepy-compiler-view)
+- [wepy-plugin-px2units：wepy框架px2units插件，将px转换为rpx](https://github.com/yingye/wepy-plugin-px2units)
 
 ### 相关文章
 
