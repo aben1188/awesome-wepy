@@ -22,9 +22,9 @@
 - [we川大：使用wepy框架开发的校园综合类小程序](https://github.com/mohuishou/scuplus-wechat)
 - [weapp-hiapp：使用wepy+zanui+redux开发的社区类小程序开源版](https://github.com/BelinChung/weapp-hiapp)
 - [wepy-jmgs：使用wepy+七牛云开发的音视频社交小程序(server代码开源)](https://github.com/g1mi/jmgs)
-
+- [DLWepyRedux: 使用Redux开发的Todo List, 真实Wepy项目中使用Redux](https://github.com/Liqiankun/DLWepyRedux)
 ### 开源组件
- 
+
 - **UI类组件**
 
 	- [ wepy-weui-demo：WeUI在WePY中的使用示例，同一份代码可以运行在小程序上和Web上 ](https://github.com/wepyjs/wepy-weui-demo)
@@ -66,7 +66,7 @@
 
 - [WeWeb：兼容微信小程序语法(包括wepy语法)的Web框架](https://github.com/wdfe/weweb)
 - [wepy-plugin-autoprefixer：wepy框架autoprefixer插件](https://github.com/li-xianfeng/wepy-plugin-autoprefixer)
-- [wxss2less：wxss文件批量重命名为less的小工具](https://github.com/stiekel/wxss2less) 
+- [wxss2less：wxss文件批量重命名为less的小工具](https://github.com/stiekel/wxss2less)
 - [wepy-template: 微信小程序模板框架wepy版，支持TypeScript](https://github.com/MMF-FE/wepy-template)
 - [wepy-compiler-styl: 微信小程序模板框架wepy版，更好的支持stylus的高级特性](https://github.com/fengxinming/wepy-compiler-stylus)
 - [wepy-compiler-jade: 微信小程序模板框架wepy版，修复官方的wepy-compiler-pug的遗留BUG](https://github.com/fengxinming/wepy-compiler-jade)
