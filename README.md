@@ -22,6 +22,7 @@
 - [we川大：使用wepy框架开发的校园综合类小程序](https://github.com/mohuishou/scuplus-wechat)
 - [weapp-hiapp：使用wepy+zanui+redux开发的社区类小程序开源版](https://github.com/BelinChung/weapp-hiapp)
 - [wepy-jmgs：使用wepy+七牛云开发的音视频社交小程序(server代码开源)](https://github.com/g1mi/jmgs)
+- [larabbs-weapp：使用 wepy 开发的论坛类小程序，对接 Laravel 开发的 REST 风格接口](https://github.com/summerblue/larabbs-weapp)
 
 ### 开源组件
  
