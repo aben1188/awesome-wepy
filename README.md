@@ -59,6 +59,7 @@
 	- [wepy-com-loadings：基于Wepy开发的微信小程序loading加载动画组件](https://github.com/Licoy/wepy-com-loadings)
 	- [wepy-match-input：微信小程序 wepyjs 第三方 动态匹配输入框插件](https://github.com/callmesoul/wepy-match-input)
 	- [wepy-simple-toast：基于wepy 的toast消息提示](https://github.com/jardenliu/wepy-simple-toast)
+	- [wepy-in-zanui: 一个基于zanui的wepy组件](https://github.com/colla2me/wepy-in-zanui)
 	
 - **功能类组件**
 	- [wepyx: 基于 redux 的数据层管理框架](https://github.com/tolerance-go/wepyx)
