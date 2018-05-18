@@ -25,6 +25,7 @@
 - [larabbs-weapp：使用 wepy 开发的论坛类小程序，对接 Laravel 开发的 REST 风格接口](https://github.com/summerblue/larabbs-weapp)
 - [2048wepy: 基于wepy的微信小程序-2048游戏](https://github.com/Hansenleee/2048wepy)
 - [WordGame-wepy: 基于wepy实现的微信小程序，一款文字游戏](https://github.com/zh8637688/WordGame-wepy)
+- [计生记mp-jishengji: 日常生活记录类的小程序](https://github.com/ximolang/mp-jishengji)
 
 ### 开源组件
  
