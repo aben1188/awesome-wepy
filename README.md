@@ -76,7 +76,6 @@
 	- [redux-persist-weapp-storage：Redux-persist storage engine for weapp/wepy](https://github.com/cuijiemmx/redux-casa/tree/master/packages/redux-persist-weapp-storage)
 	- [weapp-qrcode：在微信小程序中，快速生成二维码](https://github.com/yingye/weapp-qrcode)
 	- [echarts-for-wechat-wepy：echarts微信小程序wepy版本封装](https://github.com/zlm919/echarts-for-wechat-wepy)
-	- [wepy-template：基于WePY的微信小程序模板框架(typescript, scss)](https://github.com/MMF-FE/wepy-template)
 
 ### 相关工具
 
