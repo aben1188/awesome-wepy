@@ -28,6 +28,7 @@
 - [计生记mp-jishengji: 日常生活记录类的小程序](https://github.com/ximolang/mp-jishengji)
 - [wepy_ios_top: 一款可以切换国家查看不同国家iOS应用排行榜的小程序](https://github.com/szpnygo/wepy_ios_top)
 - [wx_iciba: 金山词霸(iciba)基于微信小程序wepy版本](https://github.com/Anonlyy/wx_iciba)
+- [AsBiLi：基于wepy开发的仿B站小程序](https://github.com/GitHubAFeng/AsBiLi)
 
 ### 开源组件
  
