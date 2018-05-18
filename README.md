@@ -1,8 +1,8 @@
 ## 微信小程序wepy框架开发资源汇总 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ### **awesome-wepy，awesome for wepy！**
 
-- [ wepy官方仓库 ](https://github.com/Tencent/wepy)
-- [ wepy官方文档 ](https://tencent.github.io/wepy/document.html)
+- [wepy官方仓库](https://github.com/Tencent/wepy)
+- [wepy官方文档](https://tencent.github.io/wepy/document.html)
 
 ---
 
@@ -27,47 +27,48 @@
 - [WordGame-wepy: 基于wepy实现的微信小程序，一款文字游戏](https://github.com/zh8637688/WordGame-wepy)
 - [计生记mp-jishengji: 日常生活记录类的小程序](https://github.com/ximolang/mp-jishengji)
 - [wepy_ios_top: 一款可以切换国家查看不同国家iOS应用排行榜的小程序](https://github.com/szpnygo/wepy_ios_top)
+- [wx_iciba: 金山词霸(iciba)基于微信小程序wepy版本](https://github.com/Anonlyy/wx_iciba)
 
 ### 开源组件
  
 - **UI类组件**
 
-	- [ wepy-weui-demo：WeUI在WePY中的使用示例，同一份代码可以运行在小程序上和Web上 ](https://github.com/wepyjs/wepy-weui-demo)
-	- [ wepy-zanui-demo：基于zanui-weapp移植的一套wepy界面框架 ](https://github.com/brucx/wepy-zanui-demo)
-	- [ wepy-X-minui：蘑菇街minui小程序UI组件库wepy版 ](https://github.com/jimmyrogue/wepy-X-minui)
-	- [ wepy-com-toast：微信小程序toast组件 ](https://github.com/wepyjs/wepy-com-toast)
-	- [ wepy-com-charts：基于微信小程序canvas的图表控件，适用于wepy框架 ](https://github.com/CalvinHong/wepy-com-charts)
-	- [ wepy-com-toptip：a toptip component for 小程序~ ](https://github.com/ochukai/wepy-com-toptip)
-	- [ wepy-com-swiper：微信小程序触摸内容滑动解决方案，适用于wepy框架 ](https://github.com/dlhandsome/wepy-com-swiper)
-	- [ wepy-com-antdM：wepy's component, ui design by antd-mobile ](https://github.com/XylitolLin/wepy-com-antdM)
-	- [ wepy-com-selectab：微信小程序标签选择组件，适用于数量等某些单选操作 ](https://github.com/ColMugX/wepy-com-selectab)
-	- [ wepy-com-pwdfield：微信小程序明密文输入框组件，适用于支付密码/房间号/验证码输入 ](https://github.com/ColMugX/wepy-com-pwdfield)
-	- [ wepy-swipe-delete：微信小程序框架wepy-滑动删除插件 ](https://github.com/GeoffZhu/wepy-swipe-delete)
-	- [ wepy-flexbox-grid：Flexbox grid system for wepy/weapp/wechat. ](https://github.com/afeiship/wepy-flexbox-grid)
-	- [ spore-wepy-tipbox：类toast提示窗口，但只显示文字，可调整显示位置。用于小程序wepy框架 ](https://github.com/SporeUI/spore-wepy-tipbox)
-	- [ leshare-map-weapp：基于微信小程序的地图展现工具，使用wepy框架及weui样式开发 ](https://github.com/coolhwm/leshare-map-weapp)
-	- [ wepy-calendar：基于wepy 的日历组件 ](https://github.com/callmesoul/wepy-calendar)
-	- [ wepy-corpper：基于wepy 的图片裁剪组件 ](https://github.com/callmesoul/wepy-corpper)
-	- [ wepy-message：基于wepy 的类toast 消息提示 ](https://github.com/callmesoul/wepy-message)
-	- [ wepy-com-loadings：基于Wepy开发的微信小程序loading加载动画组件 ](https://github.com/Licoy/wepy-com-loadings)
-	- [ wepy-match-input：微信小程序 wepyjs 第三方 动态匹配输入框插件 ](https://github.com/callmesoul/wepy-match-input)
-	- [ wepy-simple-toast：基于wepy 的toast消息提示 ](https://github.com/jardenliu/wepy-simple-toast)
+	- [wepy-weui-demo：WeUI在WePY中的使用示例，同一份代码可以运行在小程序上和Web上](https://github.com/wepyjs/wepy-weui-demo)
+	- [wepy-zanui-demo：基于zanui-weapp移植的一套wepy界面框架](https://github.com/brucx/wepy-zanui-demo)
+	- [wepy-X-minui：蘑菇街minui小程序UI组件库wepy版](https://github.com/jimmyrogue/wepy-X-minui)
+	- [wepy-com-toast：微信小程序toast组件](https://github.com/wepyjs/wepy-com-toast)
+	- [wepy-com-charts：基于微信小程序canvas的图表控件，适用于wepy框架](https://github.com/CalvinHong/wepy-com-charts)
+	- [wepy-com-toptip：a toptip component for 小程序~](https://github.com/ochukai/wepy-com-toptip)
+	- [wepy-com-swiper：微信小程序触摸内容滑动解决方案，适用于wepy框架](https://github.com/dlhandsome/wepy-com-swiper)
+	- [wepy-com-antdM：wepy's component, ui design by antd-mobile](https://github.com/XylitolLin/wepy-com-antdM)
+	- [wepy-com-selectab：微信小程序标签选择组件，适用于数量等某些单选操作](https://github.com/ColMugX/wepy-com-selectab)
+	- [wepy-com-pwdfield：微信小程序明密文输入框组件，适用于支付密码/房间号/验证码输入](https://github.com/ColMugX/wepy-com-pwdfield)
+	- [wepy-swipe-delete：微信小程序框架wepy-滑动删除插件](https://github.com/GeoffZhu/wepy-swipe-delete)
+	- [wepy-flexbox-grid：Flexbox grid system for wepy/weapp/wechat](https://github.com/afeiship/wepy-flexbox-grid)
+	- [spore-wepy-tipbox：类toast提示窗口，但只显示文字，可调整显示位置。用于小程序wepy框架](https://github.com/SporeUI/spore-wepy-tipbox)
+	- [leshare-map-weapp：基于微信小程序的地图展现工具，使用wepy框架及weui样式开发](https://github.com/coolhwm/leshare-map-weapp)
+	- [wepy-calendar：基于wepy 的日历组件](https://github.com/callmesoul/wepy-calendar)
+	- [wepy-corpper：基于wepy 的图片裁剪组件](https://github.com/callmesoul/wepy-corpper)
+	- [wepy-message：基于wepy 的类toast 消息提示](https://github.com/callmesoul/wepy-message)
+	- [wepy-com-loadings：基于Wepy开发的微信小程序loading加载动画组件](https://github.com/Licoy/wepy-com-loadings)
+	- [wepy-match-input：微信小程序 wepyjs 第三方 动态匹配输入框插件](https://github.com/callmesoul/wepy-match-input)
+	- [wepy-simple-toast：基于wepy 的toast消息提示](https://github.com/jardenliu/wepy-simple-toast)
 	
 - **功能类组件**
-	- [ wepyx: 基于 redux 的数据层管理框架 ](https://github.com/tolerance-go/wepyx)
-	- [ wepy-upyun_upload-component：微信小程序又拍云上传组件wepy版 ](https://github.com/aben1188/wepy-upyun_upload-component)
-	- [ wepy-login_relogin-component：微信小程序登录及重新二次登录组件wepy版  ](https://github.com/aben1188/wepy-login_relogin-component)
-	- [ wepy-plugin-img2base64：小程序图片转base64的WePy插件 ](https://github.com/xwxtwd/wepy-plugin-img2base64)
-	- [ wepy-com-datepicker：微信小程序预约时间组件 ](https://github.com/jasondu/wepy-com-datepicker)
-	- [ wepy-plugin-autoprefixer：wepy框架autoprefixer插件](https://github.com/li-xianfeng/wepy-plugin-autoprefixer)
-	- [ wepy-uploader：Uploader for wechat/weapp based on wepy](https://github.com/afeiship/wepy-uploader)
-	- [ wepy-img-loader：微信小程序wepyjs第三方图片预加载组](https://github.com/KennethMa/wepy-img-loader)
-	- [ wepy-plugin-axios：在 wepy 中使用 axios](https://github.com/hjkcai/wepy-plugin-axios)
-	- [ wepy-plugin-img2base64：小程序组件化开发框架WePy插件](https://github.com/xwxtwd/wepy-plugin-img2base64)
-	- [ convert-wxapp：微信小程序，用户图片文字识别，基于Wepy开发 ](https://github.com/SlowRookie/convert-wxapp)
-	- [ generator-wepy-component：Yeoman generator for wepy component ](https://github.com/afeiship/generator-wepy-component)
-	- [ redux-persist-weapp-storage：Redux-persist storage engine for weapp/wepy ](https://github.com/cuijiemmx/redux-casa/tree/master/packages/redux-persist-weapp-storage)
-	- [ weapp-qrcode：在微信小程序中，快速生成二维码 ](https://github.com/yingye/weapp-qrcode)			
+	- [wepyx: 基于 redux 的数据层管理框架](https://github.com/tolerance-go/wepyx)
+	- [wepy-upyun_upload-component：微信小程序又拍云上传组件wepy版](https://github.com/aben1188/wepy-upyun_upload-component)
+	- [wepy-login_relogin-component：微信小程序登录及重新二次登录组件wepy版](https://github.com/aben1188/wepy-login_relogin-component)
+	- [wepy-plugin-img2base64：小程序图片转base64的WePy插件](https://github.com/xwxtwd/wepy-plugin-img2base64)
+	- [wepy-com-datepicker：微信小程序预约时间组件](https://github.com/jasondu/wepy-com-datepicker)
+	- [wepy-plugin-autoprefixer：wepy框架autoprefixer插件](https://github.com/li-xianfeng/wepy-plugin-autoprefixer)
+	- [wepy-uploader：Uploader for wechat/weapp based on wepy](https://github.com/afeiship/wepy-uploader)
+	- [wepy-img-loader：微信小程序wepyjs第三方图片预加载组](https://github.com/KennethMa/wepy-img-loader)
+	- [wepy-plugin-axios：在 wepy 中使用 axios](https://github.com/hjkcai/wepy-plugin-axios)
+	- [wepy-plugin-img2base64：小程序组件化开发框架WePy插件](https://github.com/xwxtwd/wepy-plugin-img2base64)
+	- [convert-wxapp：微信小程序，用户图片文字识别，基于Wepy开发](https://github.com/SlowRookie/convert-wxapp)
+	- [generator-wepy-component：Yeoman generator for wepy component](https://github.com/afeiship/generator-wepy-component)
+	- [redux-persist-weapp-storage：Redux-persist storage engine for weapp/wepy](https://github.com/cuijiemmx/redux-casa/tree/master/packages/redux-persist-weapp-storage)
+	- [weapp-qrcode：在微信小程序中，快速生成二维码](https://github.com/yingye/weapp-qrcode)			
 
 ### 相关工具
 
@@ -101,4 +102,4 @@
 
 ### 特别推荐
 
-- [ 微信小程序开发资源精选网址导航(网址大全) ](http://www.yimijili.com/xcxwzdh.html) :100:
+- [微信小程序开发资源精选网址导航(网址大全)](http://www.yimijili.com/xcxwzdh.html) :100:
