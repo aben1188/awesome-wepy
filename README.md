@@ -78,6 +78,7 @@
 
 ### 相关文章
 
+- [喜欢喝橙汁的(20180117)：像vue一样开发微信小程序之wepy框架](https://www.jianshu.com/p/6943413dc7dd)
 - [Fayin(20171012)：微信小程序框架——wepy使后感](https://www.cnblogs.com/fayin/p/7655620.html)
 - [张所勇(20170822): 像VUE一样写微信小程序-深入研究wepy框架](https://mp.weixin.qq.com/s/R2IlOzlA9Mb_XevDXAITdw)
 - [Gcaufy(20170819): WePY为了兼容支付宝小程序，改了好几十行代码](https://mp.weixin.qq.com/s/8Lbxz1XgqM4pyfsxrvdPUQ)
