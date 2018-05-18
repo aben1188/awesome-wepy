@@ -68,7 +68,8 @@
 	- [convert-wxapp：微信小程序，用户图片文字识别，基于Wepy开发](https://github.com/SlowRookie/convert-wxapp)
 	- [generator-wepy-component：Yeoman generator for wepy component](https://github.com/afeiship/generator-wepy-component)
 	- [redux-persist-weapp-storage：Redux-persist storage engine for weapp/wepy](https://github.com/cuijiemmx/redux-casa/tree/master/packages/redux-persist-weapp-storage)
-	- [weapp-qrcode：在微信小程序中，快速生成二维码](https://github.com/yingye/weapp-qrcode)			
+	- [weapp-qrcode：在微信小程序中，快速生成二维码](https://github.com/yingye/weapp-qrcode)
+	- [echarts-for-wechat-wepy：echarts微信小程序wepy版本封装](https://github.com/zlm919/echarts-for-wechat-wepy)
 
 ### 相关工具
 
