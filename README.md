@@ -26,6 +26,7 @@
 - [2048wepy: 基于wepy的微信小程序-2048游戏](https://github.com/Hansenleee/2048wepy)
 - [WordGame-wepy: 基于wepy实现的微信小程序，一款文字游戏](https://github.com/zh8637688/WordGame-wepy)
 - [计生记mp-jishengji: 日常生活记录类的小程序](https://github.com/ximolang/mp-jishengji)
+- [wepy_ios_top: 一款可以切换国家查看不同国家iOS应用排行榜的小程序](https://github.com/szpnygo/wepy_ios_top)
 
 ### 开源组件
  
