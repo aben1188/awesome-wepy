@@ -30,6 +30,7 @@
 - [wx_iciba: 金山词霸(iciba)基于微信小程序wepy版本](https://github.com/Anonlyy/wx_iciba)
 - [AsBiLi：基于wepy开发的仿B站小程序](https://github.com/GitHubAFeng/AsBiLi)
 - [shanbay-mina: 基于wepy框架的“扇贝阅读”微信小程序](https://github.com/yshkk/shanbay-mina)
+- [emotion-weapp: 基于wepy开发的表情演员小程序](https://github.com/medivhzhan/emotion-weapp)
 
 ### 开源组件
  
