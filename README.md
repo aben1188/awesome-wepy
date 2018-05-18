@@ -33,6 +33,7 @@
 - [emotion-weapp: 基于wepy开发的表情演员小程序](https://github.com/medivhzhan/emotion-weapp)
 - [aboo-wx-applet: 基于wepy开发的阿布跑跑小程序](https://github.com/abc02/aboo-wx-applet)
 - [wepy-nba: NBA在线直播小程序](https://github.com/oOBobbyOo/wepy-nba)
+- [wepy-nideshop: wepy版nideshop商城小程序](https://github.com/huangang/wepy-nideshop)
 
 ### 开源组件
  
