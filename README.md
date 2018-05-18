@@ -23,8 +23,8 @@
 - [weapp-hiapp：使用wepy+zanui+redux开发的社区类小程序开源版](https://github.com/BelinChung/weapp-hiapp)
 - [wepy-jmgs：使用wepy+七牛云开发的音视频社交小程序(server代码开源)](https://github.com/g1mi/jmgs)
 - [larabbs-weapp：使用 wepy 开发的论坛类小程序，对接 Laravel 开发的 REST 风格接口](https://github.com/summerblue/larabbs-weapp)
-- [基于wepy的微信小程序-2048游戏](https://github.com/Hansenleee/2048wepy)
-- [基于wepy实现的微信小程序，一款文字游戏](https://github.com/zh8637688/WordGame-wepy)
+- [2048wepy: 基于wepy的微信小程序-2048游戏](https://github.com/Hansenleee/2048wepy)
+- [WordGame-wepy: 基于wepy实现的微信小程序，一款文字游戏](https://github.com/zh8637688/WordGame-wepy)
 
 ### 开源组件
  
