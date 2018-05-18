@@ -96,7 +96,6 @@
 - [Gcaufy(20170913)：WePY-小程序框架设计](https://zhuanlan.zhihu.com/p/29264211)
 - [张所勇(20170822): 像VUE一样写微信小程序-深入研究wepy框架](https://mp.weixin.qq.com/s/R2IlOzlA9Mb_XevDXAITdw)
 - [Gcaufy(20170819): WePY为了兼容支付宝小程序，改了好几十行代码](https://mp.weixin.qq.com/s/8Lbxz1XgqM4pyfsxrvdPUQ)
-;- [DR.CYCLE(20170727): 微信小程序开发与WePY框架](http://derien.me/archives/853)
 - [HJM(20170726): 深入wepy小程序组件化框架](http://www.imhjm.com/article/5977ebab7dd03248a2e8d57f)
 - [Rolan(20170628): 对wepy 框架进行一系列的深入了解](http://www.wxapp-union.com/article-2610-1.html)
 - [贝尔微微(20170620): 小程序 wepy开发总结](http://www.jianshu.com/p/85394851546b)
