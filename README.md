@@ -31,6 +31,7 @@
 - [AsBiLi：基于wepy开发的仿B站小程序](https://github.com/GitHubAFeng/AsBiLi)
 - [shanbay-mina: 基于wepy框架的“扇贝阅读”微信小程序](https://github.com/yshkk/shanbay-mina)
 - [emotion-weapp: 基于wepy开发的表情演员小程序](https://github.com/medivhzhan/emotion-weapp)
+- [aboo-wx-applet: 基于wepy开发的阿布跑跑小程序](https://github.com/abc02/aboo-wx-applet)
 
 ### 开源组件
  
