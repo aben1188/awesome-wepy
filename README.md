@@ -52,6 +52,7 @@
 	- [ wepy-com-loadings：基于Wepy开发的微信小程序loading加载动画组件 ](https://github.com/Licoy/wepy-com-loadings)
 	- [ wepy-match-input：微信小程序 wepyjs 第三方 动态匹配输入框插件 ](https://github.com/callmesoul/wepy-match-input)
 	- [ wepy-simple-toast：基于wepy 的toast消息提示 ](https://github.com/jardenliu/wepy-simple-toast)
+	
 - **功能类组件**
 	- [ wepyx: 基于 redux 的数据层管理框架 ](https://github.com/tolerance-go/wepyx)
 	- [ wepy-upyun_upload-component：微信小程序又拍云上传组件wepy版 ](https://github.com/aben1188/wepy-upyun_upload-component)
@@ -67,6 +68,7 @@
 	- [ generator-wepy-component：Yeoman generator for wepy component ](https://github.com/afeiship/generator-wepy-component)
 	- [ redux-persist-weapp-storage：Redux-persist storage engine for weapp/wepy ](https://github.com/cuijiemmx/redux-casa/tree/master/packages/redux-persist-weapp-storage)
 	- [ weapp-qrcode：在微信小程序中，快速生成二维码 ](https://github.com/yingye/weapp-qrcode)
+	- [ we-cropper: 基于WePY开发的小程序图片裁剪工具 ](https://github.com/we-plugin/we-cropper)			
 
 ### 相关工具
 
