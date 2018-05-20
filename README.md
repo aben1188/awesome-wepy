@@ -91,6 +91,7 @@
 	- [wepy-com-navbar: 基于wepy的NavBar组件](https://github.com/chenyangcun/wepy-com-navbar)
 	- [wepy-nices: 点赞动画插件](https://github.com/callmesoul/wepy-nices)
 	- [we-city-select: 城市选择组件（基于wepy）](https://github.com/shmy/we-city-select)
+        - [wepy-scroll: 楼层跳跃, 滚动楼层. 滚动商品时触发分类切换, 商品分类联动](https://github.com/kingov/wepy-scroll)
 	
 - **功能类组件**
 	- [wepyx: 基于 redux 的数据层管理框架](https://github.com/tolerance-go/wepyx)
