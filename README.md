@@ -81,7 +81,8 @@
 	- [wepy-redux: wepy版redux](https://github.com/kwame998/wepy-redux)
 	- [wepy-plugin-requireall: wepy去中心化模块加载插件](https://github.com/zzyss86/wepy-plugin-requireall)
 	- [wepy-plugin-image: wepy插件根据图片大小是否转base64、上传七牛](https://github.com/huixisheng/wepy-plugin-ima)
-
+        - [wepy-plugin-px2units：wepy框架px2units插件，将px转换为rpx](https://github.com/yingye/wepy-plugin-px2units)
+	
 ### 相关工具
 
 - [WeWeb：兼容微信小程序语法(包括wepy语法)的Web框架](https://github.com/wdfe/weweb)
@@ -91,7 +92,7 @@
 - [wepy-compiler-styl: 微信小程序模板框架wepy版，更好的支持stylus的高级特性](https://github.com/fengxinming/wepy-compiler-stylus)
 - [wepy-compiler-jade: 微信小程序模板框架wepy版，修复官方的wepy-compiler-pug的遗留BUG](https://github.com/fengxinming/wepy-compiler-jade)
 - [wepy-compiler-view: 微信小程序模板框架wepy版，支持更多的模板解析](https://github.com/fengxinming/wepy-compiler-view)
-- [wepy-plugin-px2units：wepy框架px2units插件，将px转换为rpx](https://github.com/yingye/wepy-plugin-px2units)
+- [wepy-wafer-weui-weapp: 基于wepy+wafer2的小程序模板](https://github.com/moyuanhua/wepy-wafer-weui-weapp)
 
 ### 相关文章
 
