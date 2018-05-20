@@ -68,6 +68,7 @@
 	- [wepy-slide-card: 基于wepy的slide-card组件](https://github.com/SoloJiang/wepy-slide-card)
 	- [wepy-sticker: wepy版小程序表情包组件](https://github.com/klouskingsley/wepy-sticker)
 	- [wepy-components: wepy完成的基础组件](https://github.com/Wuuuu/wepy-components)
+	- [wepy-listview: wepy版listview组件](https://github.com/qiangxinyu/wepy-listview)
 	
 - **功能类组件**
 	- [wepyx: 基于 redux 的数据层管理框架](https://github.com/tolerance-go/wepyx)
