@@ -101,6 +101,7 @@
 - [wepy-compiler-view: 微信小程序模板框架wepy版，支持更多的模板解析](https://github.com/fengxinming/wepy-compiler-view)
 - [wepy-wafer-weui-weapp: 基于wepy+wafer2的小程序模板](https://github.com/moyuanhua/wepy-wafer-weui-weapp)
 - [wepy-plugin-filemin: wepy 文件压缩插件](https://github.com/cuijiemmx/wepy-plugin-filemin)
+- [wepy-plugin-mockdata: WePY MockServer模拟数据配置合并插件](https://github.com/zzyss86/wepy-plugin-mockdata)
 
 ### 相关文章
 
