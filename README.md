@@ -48,6 +48,7 @@
 - [wepyshop: 基于wepy的商城小程序](https://github.com/huangxifuhxf/wepyshop)
 - [newBadminton羽球自由赛: 基于wepy开发的羽毛球活动组织工具小程序](https://github.com/jasscia/newBadminton)
 - [wepy-douban: 基于WePY开发的豆瓣电影小程序](https://github.com/chenwenjin888/wepy-douban)
+- [salo-mobilemini: 沙龙Salotto](https://github.com/PUNOLEE/salo-mobilemini)
 
 ### 开源组件
 
