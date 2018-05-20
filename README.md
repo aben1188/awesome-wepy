@@ -34,6 +34,7 @@
 - [aboo-wx-applet: 基于wepy开发的阿布跑跑小程序](https://github.com/abc02/aboo-wx-applet)
 - [wepy-nba: NBA在线直播小程序](https://github.com/oOBobbyOo/wepy-nba)
 - [wepy-nideshop: wepy版nideshop商城小程序](https://github.com/huangang/wepy-nideshop)
+- [ChatWall-WePy: WePY + WildDog + Vue 群聊弹幕小程序](https://github.com/MiGongOrg/ChatWall-WePy)
 
 ### 开源组件
  
