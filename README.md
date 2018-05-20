@@ -45,6 +45,7 @@
 - [huofanr-wx: wepy + wxParse + sass + pug + async await + zanUI + MinUI 搭建的微信小程序](https://github.com/zaxlct/huofanr-wx)
 - [wepy-invoice: "物联网"验证系统](https://github.com/semdy/wepy-invoice)
 - [wechat-wepy-v2ex:  V2EX 的克隆项目，基于wepy开发的小程序](https://github.com/zoux/wechat-wepy-v2ex)
+- [wepyshop: 基于wepy的商城小程序](https://github.com/huangxifuhxf/wepyshop)
 
 ### 开源组件
 
