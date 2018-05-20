@@ -89,6 +89,7 @@
 	- [wepy-plugin-parsecss: wepy框架parsecss插件](https://github.com/EdwardZZZ/wepy-plugin-parsecss)
 	- [wepy-plugin-hash-filename: wepy用哈希重命名文件](https://github.com/hongguancheng/wepy-plugin-hash-filename)
 	- [wepy-plugin-rxjs: wepy项目使用rxjs](https://github.com/AngusFu/wepy-plugin-rxjs)
+	- [RxWX: 用于微信小程序的RxJS，支持wepy](https://github.com/yalishizhude/RxWX)
 	- [wepy-preload-image: 小程序图片加载组件](https://github.com/xd-tayde/wepy-preload-img)
 	
 ### 相关工具
