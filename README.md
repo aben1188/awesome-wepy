@@ -80,6 +80,7 @@
 	- [wepy-com-icityer: 基于wepy框架的中国省市区选择组件](https://github.com/wahao/wepy-com-icityer)
 	- [wepy-com-inaver: 基于wepy框架的系统状态导航栏组件](https://github.com/wahao/wepy-com-inaver)
 	- [wepy-minui: 调用wepy封装方法，套用minui的UI组件](https://github.com/kagomeAli/wepy-minui)
+	- [wepy-slide: 基于wepy框架的侧滑组件](https://github.com/lulusir/wepy-slide)
 	
 - **功能类组件**
 	- [wepyx: 基于 redux 的数据层管理框架](https://github.com/tolerance-go/wepyx)
