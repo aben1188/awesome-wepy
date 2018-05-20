@@ -83,7 +83,7 @@
 	- [wepy-redux: wepy版redux](https://github.com/kwame998/wepy-redux)
 	- [wepy-plugin-requireall: wepy去中心化模块加载插件](https://github.com/zzyss86/wepy-plugin-requireall)
 	- [wepy-plugin-image: wepy插件根据图片大小是否转base64、上传七牛](https://github.com/huixisheng/wepy-plugin-ima)
-        - [wepy-plugin-px2units：wepy框架px2units插件，将px转换为rpx](https://github.com/yingye/wepy-plugin-px2units)
+	- [wepy-plugin-px2units：wepy框架px2units插件，将px转换为rpx](https://github.com/yingye/wepy-plugin-px2units)
 	
 ### 相关工具
 
