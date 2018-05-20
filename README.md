@@ -113,6 +113,7 @@
 - [wepy-plugin-mockdata: WePY MockServer模拟数据配置合并插件](https://github.com/zzyss86/wepy-plugin-mockdata)
 - [wepy-snippets: 微信小程序WePy Sublime Snippets插件](https://github.com/MiGongOrg/wepy-snippets)
 - [wepy-utils: 小程序WePy工具集整合](https://github.com/MiGongOrg/wepy-utils)
+- [gulp-tools-for-wepy: 用gulp来解决一些wepy与小程序新特性间存在的问题](https://github.com/chen1zee/gulp-tools-for-wepy)
 
 ### 相关文章
 
