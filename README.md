@@ -15,7 +15,7 @@
 
 ![image](https://github.com/aben1188/CommonResources/blob/master/JackyLinWXQR_small.jpg)
 
-（:exclamation: 介绍举荐开发牛人者，有重奖）
+（:exclamation: 介绍举荐小程序、小游戏开发大神者，有重奖）
 
 ---
 
