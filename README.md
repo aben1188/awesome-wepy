@@ -41,6 +41,7 @@
 - [wxMusic: 微信小程序音乐](https://github.com/huxinmin/wxMusic)
 - [wepy-dota: wepy写的dota 09对战平台小程序](https://github.com/johnbian/wepy-dota)
 - [nearby: 周边生活导航](https://github.com/jackdizhu/WePY_app)
+- [kedouWechat: 蝌蚪物流的微信小程序 基于wepy框架](https://github.com/niuhuahua/kedouWechat)
 
 ### 开源组件
 
