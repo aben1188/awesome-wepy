@@ -47,6 +47,7 @@
 - [wechat-wepy-v2ex:  V2EX 的克隆项目，基于wepy开发的小程序](https://github.com/zoux/wechat-wepy-v2ex)
 - [wepyshop: 基于wepy的商城小程序](https://github.com/huangxifuhxf/wepyshop)
 - [newBadminton羽球自由赛: 基于wepy开发的羽毛球活动组织工具小程序](https://github.com/jasscia/newBadminton)
+- [wepy-douban: 基于WePY开发的豆瓣电影小程序](https://github.com/chenwenjin888/wepy-douban)
 
 ### 开源组件
 
@@ -82,6 +83,7 @@
 	- [wepy-com-inaver: 基于wepy框架的系统状态导航栏组件](https://github.com/wahao/wepy-com-inaver)
 	- [wepy-minui: 调用wepy封装方法，套用minui的UI组件](https://github.com/kagomeAli/wepy-minui)
 	- [wepy-slide: 基于wepy框架的侧滑组件](https://github.com/lulusir/wepy-slide)
+	- [wepy-com-selectab: 选择数量或者其他单选操作，可用于座位选择的组件](https://github.com/colmugx/wepy-com-selectab)
 	
 - **功能类组件**
 	- [wepyx: 基于 redux 的数据层管理框架](https://github.com/tolerance-go/wepyx)
@@ -110,6 +112,7 @@
 	- [RxWX: 用于微信小程序的RxJS，支持wepy](https://github.com/yalishizhude/RxWX)
 	- [wepy-preload-image: 小程序图片加载组件](https://github.com/xd-tayde/wepy-preload-img)
 	- [wxParse: 对wxParse的简单封装，适用于wepy](https://github.com/Blubiubiu/wxParse)
+	- [wepy-vue: 微信小程序路由](https://github.com/titrxw/wepy-vue)
 	
 ### 相关工具
 
