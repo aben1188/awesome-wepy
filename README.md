@@ -42,6 +42,7 @@
 - [wepy-dota: wepy写的dota 09对战平台小程序](https://github.com/johnbian/wepy-dota)
 - [nearby: 周边生活导航](https://github.com/jackdizhu/WePY_app)
 - [kedouWechat: 蝌蚪物流的微信小程序 基于wepy框架](https://github.com/niuhuahua/kedouWechat)
+- [huofanr-wx: wepy + wxParse + sass + pug + async await + zanUI + MinUI 搭建的微信小程序](https://github.com/zaxlct/huofanr-wx)
 
 ### 开源组件
 
