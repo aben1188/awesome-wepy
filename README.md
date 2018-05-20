@@ -44,6 +44,7 @@
 - [kedouWechat: 蝌蚪物流的微信小程序 基于wepy框架](https://github.com/niuhuahua/kedouWechat)
 - [huofanr-wx: wepy + wxParse + sass + pug + async await + zanUI + MinUI 搭建的微信小程序](https://github.com/zaxlct/huofanr-wx)
 - [wepy-invoice: "物联网"验证系统](https://github.com/semdy/wepy-invoice)
+- [wechat-wepy-v2ex:  V2EX 的克隆项目，基于wepy开发的小程序](https://github.com/zoux/wechat-wepy-v2ex)
 
 ### 开源组件
 
@@ -122,6 +123,7 @@
 - [wepy-utils: 小程序WePy工具集整合](https://github.com/MiGongOrg/wepy-utils)
 - [gulp-tools-for-wepy: 用gulp来解决一些wepy与小程序新特性间存在的问题](https://github.com/chen1zee/gulp-tools-for-wepy)
 - [wepy-plugin-px2units: wepy框架px2units插件](https://github.com/yingye/wepy-plugin-px2units)
+- [generator-wepy-component: Yeoman generator for wepy component](https://github.com/afeiship/generator-wepy-component)
 
 ### 相关文章
 
