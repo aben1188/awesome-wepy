@@ -72,6 +72,9 @@
 	- [wepy-sticker: wepy版小程序表情包组件](https://github.com/klouskingsley/wepy-sticker)
 	- [wepy-components: wepy完成的基础组件](https://github.com/Wuuuu/wepy-components)
 	- [wepy-listview: wepy版listview组件](https://github.com/qiangxinyu/wepy-listview)
+	- [wepy-com-iviewer: 基于wepy框架的Modal和Toast组件](https://github.com/wahao/wepy-com-iviewer)
+	- [wepy-com-icityer: 基于wepy框架的中国省市区选择组件](https://github.com/wahao/wepy-com-icityer)
+	- [wepy-com-inaver: 基于wepy框架的系统状态导航栏组件](https://github.com/wahao/wepy-com-inaver)
 	
 - **功能类组件**
 	- [wepyx: 基于 redux 的数据层管理框架](https://github.com/tolerance-go/wepyx)
