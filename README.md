@@ -107,7 +107,7 @@
 - [wepy-plugin-filemin: wepy 文件压缩插件](https://github.com/cuijiemmx/wepy-plugin-filemin)
 - [wepy-plugin-mockdata: WePY MockServer模拟数据配置合并插件](https://github.com/zzyss86/wepy-plugin-mockdata)
 - [wepy-snippets: 微信小程序WePy Sublime Snippets插件](https://github.com/MiGongOrg/wepy-snippets)
-
+- [wepy-utils: 小程序WePy工具集整合](https://github.com/MiGongOrg/wepy-utils)
 
 ### 相关文章
 
