@@ -126,6 +126,7 @@
 - [gulp-tools-for-wepy: 用gulp来解决一些wepy与小程序新特性间存在的问题](https://github.com/chen1zee/gulp-tools-for-wepy)
 - [wepy-plugin-px2units: wepy框架px2units插件](https://github.com/yingye/wepy-plugin-px2units)
 - [generator-wepy-component: Yeoman generator for wepy component](https://github.com/afeiship/generator-wepy-component)
+- [wepy-compiler-stylus: wepy框架stylus编译插件](https://github.com/fengxinming/wepy-compiler-stylus)
 
 ### 相关文章
 
