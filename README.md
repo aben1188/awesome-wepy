@@ -78,6 +78,7 @@
 	- [weapp-qrcode：在微信小程序中，快速生成二维码](https://github.com/yingye/weapp-qrcode)
 	- [echarts-for-wechat-wepy：echarts微信小程序wepy版本封装](https://github.com/zlm919/echarts-for-wechat-wepy)
 	- [wepy-redux: wepy版redux](https://github.com/kwame998/wepy-redux)
+	- [wepy-plugin-requireall: wepy去中心化模块加载插件](https://github.com/zzyss86/wepy-plugin-requireall)
 
 ### 相关工具
 
