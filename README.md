@@ -95,6 +95,7 @@
 - [wepy-compiler-jade: 微信小程序模板框架wepy版，修复官方的wepy-compiler-pug的遗留BUG](https://github.com/fengxinming/wepy-compiler-jade)
 - [wepy-compiler-view: 微信小程序模板框架wepy版，支持更多的模板解析](https://github.com/fengxinming/wepy-compiler-view)
 - [wepy-wafer-weui-weapp: 基于wepy+wafer2的小程序模板](https://github.com/moyuanhua/wepy-wafer-weui-weapp)
+- [wepy-plugin-filemin: wepy 文件压缩插件](https://github.com/cuijiemmx/wepy-plugin-filemin)
 
 ### 相关文章
 
