@@ -86,6 +86,7 @@
 	- [wepy-slide: 基于wepy框架的侧滑组件](https://github.com/lulusir/wepy-slide)
 	- [wepy-com-selectab: 选择数量或者其他单选操作，可用于座位选择的组件](https://github.com/colmugx/wepy-com-selectab)
 	- [wepy-com-navbar: 基于wepy的NavBar组件](https://github.com/chenyangcun/wepy-com-navbar)
+	- [wepy-nices: 点赞动画插件](https://github.com/callmesoul/wepy-nices)
 	
 - **功能类组件**
 	- [wepyx: 基于 redux 的数据层管理框架](https://github.com/tolerance-go/wepyx)
