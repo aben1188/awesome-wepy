@@ -49,6 +49,9 @@
 - [newBadminton羽球自由赛: 基于wepy开发的羽毛球活动组织工具小程序](https://github.com/jasscia/newBadminton)
 - [wepy-douban: 基于WePY开发的豆瓣电影小程序](https://github.com/chenwenjin888/wepy-douban)
 - [salo-mobilemini: 沙龙Salotto](https://github.com/PUNOLEE/salo-mobilemini)
+- [WEAPP_GNB_MIDDLE: 基于wepy开发的中学错题归纳本小程序](https://github.com/HopeFE/WEAPP_GNB_MIDDLE)
+- [WEAPP_GNB_PRIMARY: 基于wepy开发的小学错题归纳本小程序](https://github.com/HopeFE/WEAPP_GNB_PRIMARY)
+- [weapp-color-weather: a weapp of weather](https://github.com/cycjimmy/weapp-color-weather)
 
 ### 开源组件
 
@@ -87,6 +90,7 @@
 	- [wepy-com-selectab: 选择数量或者其他单选操作，可用于座位选择的组件](https://github.com/colmugx/wepy-com-selectab)
 	- [wepy-com-navbar: 基于wepy的NavBar组件](https://github.com/chenyangcun/wepy-com-navbar)
 	- [wepy-nices: 点赞动画插件](https://github.com/callmesoul/wepy-nices)
+	- [we-city-select: 城市选择组件（基于wepy）](https://github.com/shmy/we-city-select)
 	
 - **功能类组件**
 	- [wepyx: 基于 redux 的数据层管理框架](https://github.com/tolerance-go/wepyx)
