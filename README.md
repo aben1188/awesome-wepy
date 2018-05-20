@@ -37,6 +37,7 @@
 - [ChatWall-WePy: WePY + WildDog + Vue 群聊弹幕小程序](https://github.com/MiGongOrg/ChatWall-WePy)
 - [TuCaoQiang: 基于wepy开发的吐槽墙小程序](https://github.com/yimogit/TuCaoQiang)
 - [wx-wepy-k: 基于wepy框架的微信小程序K线图demo](https://github.com/AWeiJie/wx-wepy-k)
+- [wxMusic: 微信小程序音乐](https://github.com/huxinmin/wxMusic)
 
 ### 开源组件
  
