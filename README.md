@@ -46,6 +46,7 @@
 - [wepy-invoice: "物联网"验证系统](https://github.com/semdy/wepy-invoice)
 - [wechat-wepy-v2ex:  V2EX 的克隆项目，基于wepy开发的小程序](https://github.com/zoux/wechat-wepy-v2ex)
 - [wepyshop: 基于wepy的商城小程序](https://github.com/huangxifuhxf/wepyshop)
+- [newBadminton羽球自由赛: 基于wepy开发的羽毛球活动组织工具小程序](https://github.com/jasscia/newBadminton)
 
 ### 开源组件
 
