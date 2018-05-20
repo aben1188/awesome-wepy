@@ -43,6 +43,7 @@
 - [nearby: 周边生活导航](https://github.com/jackdizhu/WePY_app)
 - [kedouWechat: 蝌蚪物流的微信小程序 基于wepy框架](https://github.com/niuhuahua/kedouWechat)
 - [huofanr-wx: wepy + wxParse + sass + pug + async await + zanUI + MinUI 搭建的微信小程序](https://github.com/zaxlct/huofanr-wx)
+- [wepy-invoice: "物联网"验证系统](https://github.com/semdy/wepy-invoice)
 
 ### 开源组件
 
@@ -103,6 +104,7 @@
 	- [wepy-plugin-rxjs: wepy项目使用rxjs](https://github.com/AngusFu/wepy-plugin-rxjs)
 	- [RxWX: 用于微信小程序的RxJS，支持wepy](https://github.com/yalishizhude/RxWX)
 	- [wepy-preload-image: 小程序图片加载组件](https://github.com/xd-tayde/wepy-preload-img)
+	- [wxParse: 对wxParse的简单封装，适用于wepy](https://github.com/Blubiubiu/wxParse)
 	
 ### 相关工具
 
@@ -119,6 +121,7 @@
 - [wepy-snippets: 微信小程序WePy Sublime Snippets插件](https://github.com/MiGongOrg/wepy-snippets)
 - [wepy-utils: 小程序WePy工具集整合](https://github.com/MiGongOrg/wepy-utils)
 - [gulp-tools-for-wepy: 用gulp来解决一些wepy与小程序新特性间存在的问题](https://github.com/chen1zee/gulp-tools-for-wepy)
+- [wepy-plugin-px2units: wepy框架px2units插件](https://github.com/yingye/wepy-plugin-px2units)
 
 ### 相关文章
 
