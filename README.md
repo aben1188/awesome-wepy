@@ -156,6 +156,7 @@
 
 ### 相关文章
 
+- [yingye(20180511)：深入wepy源码：wpy文件编译过程](https://github.com/yingye/Blog/issues/3)
 - [喜欢喝橙汁的(20180117)：像vue一样开发微信小程序之wepy框架](https://www.jianshu.com/p/6943413dc7dd)
 - [Fayin(20171012)：微信小程序框架——wepy使后感](https://www.cnblogs.com/fayin/p/7655620.html)
 - [Gcaufy(20170913)：WePY-小程序框架设计](https://zhuanlan.zhihu.com/p/29264211)
