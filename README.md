@@ -39,6 +39,7 @@
 - [TuCaoQiang: 基于wepy开发的吐槽墙小程序](https://github.com/yimogit/TuCaoQiang)
 - [wx-wepy-k: 基于wepy框架的微信小程序K线图demo](https://github.com/AWeiJie/wx-wepy-k)
 - [wxMusic: 微信小程序音乐](https://github.com/huxinmin/wxMusic)
+- [wepy-dota: wepy写的dota 09对战平台小程序](https://github.com/johnbian/wepy-dota)
 
 ### 开源组件
 
