@@ -9,10 +9,12 @@
 - 月付15K以上找小程序/小游戏兼职程序员或外包团队：可按周支付，同时可按收入分成，收入上不封顶
 - 要求：实际开发过从前端到后端完整的小程序(包括微信支付或红包功能)或小游戏。
 - 不看学历和履历，只看能力。欢迎微信扫码联系。
-
+<p align="center">
+	
 ![image](https://github.com/aben1188/CommonResources/blob/master/JackyLinWXQR_small.jpg)
 
 （介绍举荐开发牛人者，有重奖！）
+</p>
 
 ---
 
