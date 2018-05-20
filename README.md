@@ -77,7 +77,6 @@
 	- [wepy-uploader：Uploader for wechat/weapp based on wepy](https://github.com/afeiship/wepy-uploader)
 	- [wepy-img-loader：微信小程序wepyjs第三方图片预加载组](https://github.com/KennethMa/wepy-img-loader)
 	- [wepy-plugin-axios：在 wepy 中使用 axios](https://github.com/hjkcai/wepy-plugin-axios)
-	- [wepy-plugin-img2base64：小程序组件化开发框架WePy插件](https://github.com/xwxtwd/wepy-plugin-img2base64)
 	- [convert-wxapp：微信小程序，用户图片文字识别，基于Wepy开发](https://github.com/SlowRookie/convert-wxapp)
 	- [generator-wepy-component：Yeoman generator for wepy component](https://github.com/afeiship/generator-wepy-component)
 	- [redux-persist-weapp-storage：Redux-persist storage engine for weapp/wepy](https://github.com/cuijiemmx/redux-casa/tree/master/packages/redux-persist-weapp-storage)
