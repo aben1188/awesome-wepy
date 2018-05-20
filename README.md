@@ -84,6 +84,10 @@
 	- [wepy-plugin-requireall: wepy去中心化模块加载插件](https://github.com/zzyss86/wepy-plugin-requireall)
 	- [wepy-plugin-image: wepy插件根据图片大小是否转base64、上传七牛](https://github.com/huixisheng/wepy-plugin-ima)
 	- [wepy-plugin-px2units：wepy框架px2units插件，将px转换为rpx](https://github.com/yingye/wepy-plugin-px2units)
+	- [wepy-plugin-preprocess: wepy框架下的 preprocess plugin配置](https://github.com/guday/wepy-plugin-preprocess)
+	- [wepy-plugin-parsecss: wepy框架parsecss插件](https://github.com/EdwardZZZ/wepy-plugin-parsecss)
+	- [wepy-plugin-hash-filename: wepy用哈希重命名文件](https://github.com/hongguancheng/wepy-plugin-hash-filename)
+	- [wepy-plugin-rxjs: wepy项目使用rxjs](https://github.com/AngusFu/wepy-plugin-rxjs)
 	
 ### 相关工具
 
