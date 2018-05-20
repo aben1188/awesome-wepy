@@ -10,7 +10,9 @@
 - 要求：实际开发过从前端到后端完整的小程序(包括微信支付或红包功能)或小游戏
 - 不看学历和履历，只看资历和能力
 
-欢迎微信扫码联系（请务必注明“小程序外包”以便通过验证；:exclamation: 介绍举荐小程序、小游戏开发大神者，有重奖）：
+:exclamation: 介绍举荐小程序、小游戏开发大神者，有重奖
+
+欢迎微信扫码联系（请务必注明“小程序外包”或“小游戏外包”以便通过验证）：
 
 ![image](https://github.com/aben1188/CommonResources/blob/master/JackyLinWXQR_small.jpg)
 
