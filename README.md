@@ -35,6 +35,7 @@
 - [wepy-nba: NBA在线直播小程序](https://github.com/oOBobbyOo/wepy-nba)
 - [wepy-nideshop: wepy版nideshop商城小程序](https://github.com/huangang/wepy-nideshop)
 - [ChatWall-WePy: WePY + WildDog + Vue 群聊弹幕小程序](https://github.com/MiGongOrg/ChatWall-WePy)
+- [TuCaoQiang: 基于wepy开发的吐槽墙小程序](https://github.com/yimogit/TuCaoQiang)
 
 ### 开源组件
  
@@ -61,6 +62,7 @@
 	- [wepy-match-input：微信小程序 wepyjs 第三方 动态匹配输入框插件](https://github.com/callmesoul/wepy-match-input)
 	- [wepy-simple-toast：基于wepy 的toast消息提示](https://github.com/jardenliu/wepy-simple-toast)
 	- [wepy-in-zanui: 一个基于zanui的wepy组件](https://github.com/colla2me/wepy-in-zanui)
+	- [wepy-slide-card: 基于wepy的slide-card组件](https://github.com/SoloJiang/wepy-slide-card)
 	
 - **功能类组件**
 	- [wepyx: 基于 redux 的数据层管理框架](https://github.com/tolerance-go/wepyx)
