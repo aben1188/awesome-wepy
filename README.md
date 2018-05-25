@@ -123,7 +123,7 @@
 	- [wepy-redux: wepy版redux](https://github.com/kwame998/wepy-redux)
 	- [wepy-redux: wepy框架可以使用的redux链接库，兼容react-redux的写法](https://github.com/dpzxsm/wepy-redux)
 	- [wepy-plugin-requireall: wepy去中心化模块加载插件](https://github.com/zzyss86/wepy-plugin-requireall)
-	- [wepy-plugin-image: wepy插件根据图片大小是否转base64、上传七牛](https://github.com/huixisheng/wepy-plugin-ima)
+	- [wepy-plugin-image: wepy插件根据图片大小是否转base64、上传七牛](https://github.com/huixisheng/wepy-plugin-image)
 	- [wepy-plugin-px2units：wepy框架px2units插件，将px转换为rpx](https://github.com/yingye/wepy-plugin-px2units)
 	- [wepy-plugin-preprocess: wepy框架下的 preprocess plugin配置](https://github.com/guday/wepy-plugin-preprocess)
 	- [wepy-plugin-parsecss: wepy框架parsecss插件](https://github.com/EdwardZZZ/wepy-plugin-parsecss)
