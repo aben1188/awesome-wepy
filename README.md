@@ -87,6 +87,7 @@
 	- [wepy-corpper：基于wepy 的图片裁剪组件](https://github.com/callmesoul/wepy-corpper)
 	- [wepy-message：基于wepy 的类toast 消息提示](https://github.com/callmesoul/wepy-message)
 	- [wepy-com-loadings：基于Wepy开发的微信小程序loading加载动画组件](https://github.com/Licoy/wepy-com-loadings)
+	- [wepy-com-progress-circle：基于Wepy框架的圆形进度条](https://github.com/roonly/wepy-com-progress-circle)
 	- [wepy-match-input：微信小程序 wepyjs 第三方 动态匹配输入框插件](https://github.com/callmesoul/wepy-match-input)
 	- [wepy-simple-toast：基于wepy 的toast消息提示](https://github.com/jardenliu/wepy-simple-toast)
 	- [wepy-in-zanui: 一个基于zanui的wepy组件](https://github.com/colla2me/wepy-in-zanui)
