@@ -153,6 +153,7 @@
 - [wepy-plugin-px2units: wepy框架px2units插件](https://github.com/yingye/wepy-plugin-px2units)
 - [generator-wepy-component: Yeoman generator for wepy component](https://github.com/afeiship/generator-wepy-component)
 - [wepy-compiler-stylus: wepy框架stylus编译插件](https://github.com/fengxinming/wepy-compiler-stylus)
+- [让PhpStorm/WebStorm全面支持WePY的开发](http://wepy.iniself.com)
 
 ### 相关文章
 
