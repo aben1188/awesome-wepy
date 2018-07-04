@@ -153,6 +153,8 @@
 - [wepy-plugin-px2units: wepy框架px2units插件](https://github.com/yingye/wepy-plugin-px2units)
 - [generator-wepy-component: Yeoman generator for wepy component](https://github.com/afeiship/generator-wepy-component)
 - [wepy-compiler-stylus: wepy框架stylus编译插件](https://github.com/fengxinming/wepy-compiler-stylus)
+- [socket.io-mp-client: 小程序socket.io客户端, 支持微信小程序、支付宝小程序](https://github.com/cytle/socket.io-mp-client)
+- [wechat_web_devtools: 微信开发者工具(微信小程序)linux完美支持](https://github.com/cytle/wechat_web_devtools)
 
 ### 相关文章
 
