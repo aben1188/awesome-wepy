@@ -64,6 +64,7 @@
 - [WEAPP_GNB_MIDDLE: 基于wepy开发的中学错题归纳本小程序](https://github.com/HopeFE/WEAPP_GNB_MIDDLE)
 - [WEAPP_GNB_PRIMARY: 基于wepy开发的小学错题归纳本小程序](https://github.com/HopeFE/WEAPP_GNB_PRIMARY)
 - [weapp-color-weather: a weapp of weather](https://github.com/cycjimmy/weapp-color-weather)
+- [jiezhang: 基于wepy开发的记账小程序](https://github.com/yigger/jiezhang)
 
 ### 开源组件
 
