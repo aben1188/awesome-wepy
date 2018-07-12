@@ -16,7 +16,7 @@
 
 :exclamation: 介绍举荐小程序、小游戏开发大神者，有重奖！
 
-请微信扫码联系（请务必注明“小程序开发”或“小游戏开发”以便通过验证）：
+请微信扫码联系（请务必注明“小程序开发”或“小游戏开发”以通过验证）：
 
 ![image](https://github.com/aben1188/CommonResources/blob/master/JackyLinWXQR_small.jpg)
 
