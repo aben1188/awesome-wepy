@@ -31,6 +31,7 @@
 - [wepy-ufutx-library：友福图书馆(基于Thunf's bookmall, 持续开发共享)](https://github.com/glore/library)
 - [leshare-seller-wepy：基于小程序的电商卖家端，采用wepy框架开发](https://github.com/coolhwm/leshare-seller-wepy)
 - [leshare-food-wepy：基于微信小程序的外卖店铺，采用wepy框架开发](https://github.com/coolhwm/leshare-food-wepy)
+- [有趣视频(youqu): 基于WePY开发, 模仿开眼App的一个视频小程序](https://github.com/terryso/youqu)
 - [wepy-one：微信小程序one(wepy版本)](https://github.com/huangang/wepy-one)
 - [wepy-books：微信小程序wepy版图书管理系统](https://github.com/KingJeason/wepy-books)
 - [wxYuHanStore：基于wepy开发的商城(微店)微信小程序](https://github.com/dyq086/wxYuHanStore)
@@ -185,3 +186,5 @@
 ### 特别推荐
 
 - [微信小程序开发资源精选网址导航(网址大全)](http://www.yimijili.com/xcxwzdh.html) :100:
+
+
