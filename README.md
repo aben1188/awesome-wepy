@@ -72,6 +72,7 @@
 - [weapp-color-weather: a weapp of weather](https://github.com/cycjimmy/weapp-color-weather)
 - [jiezhang: 基于wepy开发的记账小程序](https://github.com/yigger/jiezhang)
 - [steedos: 华炎微站、微商城，含SAAS服务端](https://github.com/steedos/mini-vip)
+- [BORK: 领养流浪宠物平台小程序](https://github.com/johncalvinroberts/bork-mini-program)
 
 ### 开源组件
 
@@ -114,6 +115,9 @@
 	- [wepy-nices: 点赞动画插件](https://github.com/callmesoul/wepy-nices)
 	- [we-city-select: 城市选择组件（基于wepy）](https://github.com/shmy/we-city-select)
 	- [wepy-scroll: 楼层跳跃, 滚动楼层. 滚动商品时触发分类切换, 商品分类联动](https://github.com/kingov/wepy-scroll)
+	- [wepy-com-paper-modal: 基于wepy的简洁帅气的modal组件](https://github.com/johncalvinroberts/wepy-com-paper-modal)
+	- [wepy-com-paper-flash: 基于wepy的简洁帅气flash组件](https://github.com/johncalvinroberts/wepy-com-paper-flash)
+	- [wepy-com-paper-drawer: 基于wepy的简洁帅气drawer组件](https://github.com/johncalvinroberts/wepy-com-paper-drawer)
 	
 - **功能类组件**
 	- [wepyx: 基于 redux 的数据层管理框架](https://github.com/tolerance-go/wepyx)
