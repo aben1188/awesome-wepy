@@ -27,7 +27,7 @@
  
 - **UI类组件**
 
-    - [ DLNoticeBar：一个可以滚动的通知栏 ](https://github.com/Liqiankun/DLNoticeBar)
+	- [ wepy-notice-bar：一个可以滚动的通知栏 ](https://github.com/Liqiankun/wepy-notice-bar)
 	- [ wepy-weui-demo：WeUI在WePY中的使用示例，同一份代码可以运行在小程序上和Web上 ](https://github.com/wepyjs/wepy-weui-demo)
 	- [ wepy-zanui-demo：基于zanui-weapp移植的一套wepy界面框架 ](https://github.com/brucx/wepy-zanui-demo)
 	- [ wepy-X-minui：蘑菇街minui小程序UI组件库wepy版 ](https://github.com/jimmyrogue/wepy-X-minui)
