@@ -3,6 +3,7 @@
 
 - [wepy官方仓库](https://github.com/Tencent/wepy)
 - [wepy官方文档](https://tencent.github.io/wepy/document.html)
+- [小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/)
 
 ---
 ### :point_right: 月付15K以上找小程序/小游戏兼职程序员或外包团队
