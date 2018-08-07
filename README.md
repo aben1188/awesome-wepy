@@ -118,6 +118,7 @@
 	- [wepy-com-paper-modal: 基于wepy的简洁帅气的modal组件](https://github.com/johncalvinroberts/wepy-com-paper-modal)
 	- [wepy-com-paper-flash: 基于wepy的简洁帅气flash组件](https://github.com/johncalvinroberts/wepy-com-paper-flash)
 	- [wepy-com-paper-drawer: 基于wepy的简洁帅气drawer组件](https://github.com/johncalvinroberts/wepy-com-paper-drawer)
+	- [wepy-notice-bar：一个可以滚动的通知栏](https://github.com/Liqiankun/wepy-notice-bar)
 	
 - **功能类组件**
 	- [wepyx: 基于 redux 的数据层管理框架](https://github.com/tolerance-go/wepyx)
