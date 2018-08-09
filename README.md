@@ -150,6 +150,7 @@
 	- [wxParse: 对wxParse的简单封装，适用于wepy](https://github.com/Blubiubiu/wxParse)
 	- [wepy-vue: 微信小程序路由](https://github.com/titrxw/wepy-vue)
 	- [wepy_canvas_drawer: 微信小程序上canvas绘制图片助手，一个json就制作分享朋友圈图片](https://github.com/simmzl/wepy_canvas_drawer)
+	- [wepy-plugin-iview: wepy更轻松地使用iview-weapp](https://github.com/jardenliu/wepy-plugin-iview.git)
 	
 ### 相关工具
 
