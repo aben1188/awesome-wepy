@@ -83,8 +83,7 @@
 	- [wepy-zanui-demo：基于zanui-weapp移植的一套wepy界面框架](https://github.com/brucx/wepy-zanui-demo)
 	- [wepy-X-minui：蘑菇街minui小程序UI组件库wepy版](https://github.com/jimmyrogue/wepy-X-minui)
 	- [kai-ui：基于WePY框架的高颜值、高效率组件库](https://github.com/Chaunjie/kai-ui)
-	- [bee-cli：基于蘑菇街min-cli移植的一套wepy小程序组件化解决方案](https://github.com/biosan-frontEnd/bee-cli)
-	- [wepy-com-toast：微信小程序toast组件](https://github.com/wepyjs/wepy-com-toast)
+		- [wepy-com-toast：微信小程序toast组件](https://github.com/wepyjs/wepy-com-toast)
 	- [wepy-com-charts：基于微信小程序canvas的图表控件，适用于wepy框架](https://github.com/CalvinHong/wepy-com-charts)
 	- [wepy-com-toptip：a toptip component for 小程序~](https://github.com/ochukai/wepy-com-toptip)
 	- [wepy-com-swiper：微信小程序触摸内容滑动解决方案，适用于wepy框架](https://github.com/dlhandsome/wepy-com-swiper)
@@ -173,6 +172,7 @@
 - [generator-wepy-component: Yeoman generator for wepy component](https://github.com/afeiship/generator-wepy-component)
 - [wepy-compiler-stylus: wepy框架stylus编译插件](https://github.com/fengxinming/wepy-compiler-stylus)
 - [让PhpStorm/WebStorm全面支持WePY的开发](http://wepy.iniself.com)
+- [bee-cli：基于蘑菇街min-cli移植的一套wepy小程序组件化解决方案](https://github.com/biosan-frontEnd/bee-cli)
 
 ### 相关文章
 
