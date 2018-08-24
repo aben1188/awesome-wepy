@@ -86,6 +86,7 @@
 	- [kai-ui：基于WePY框架的高颜值、高效率组件库](https://github.com/Chaunjie/kai-ui)
 	- [wepy-com-toast：微信小程序toast组件](https://github.com/wepyjs/wepy-com-toast)
 	- [wepy-com-charts：基于微信小程序canvas的图表控件，适用于wepy框架](https://github.com/CalvinHong/wepy-com-charts)
+	- [wepy-com-pie：基于微信小程序canvas的饼图控件，适用于wepy框架](https://github.com/micro1226/wepy-com-pie)
 	- [wepy-com-toptip：a toptip component for 小程序~](https://github.com/ochukai/wepy-com-toptip)
 	- [wepy-com-swiper：微信小程序触摸内容滑动解决方案，适用于wepy框架](https://github.com/dlhandsome/wepy-com-swiper)
 	- [wepy-com-antdM：wepy's component, ui design by antd-mobile](https://github.com/XylitolLin/wepy-com-antdM)
