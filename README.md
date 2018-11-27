@@ -83,6 +83,7 @@
 - [jiezhang: 基于wepy开发的记账小程序](https://github.com/yigger/jiezhang)
 - [steedos: 华炎微站、微商城，含SAAS服务端](https://github.com/steedos/mini-vip)
 - [BORK: 领养流浪宠物平台小程序](https://github.com/johncalvinroberts/bork-mini-program)
+- [sdb-mall: 直播小程序拼团商城](https://github.com/yjjdick/sdb-mall)
 
 ### 开源组件
 
