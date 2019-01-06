@@ -84,6 +84,7 @@
 - [steedos: 华炎微站、微商城，含SAAS服务端](https://github.com/steedos/mini-vip)
 - [BORK: 领养流浪宠物平台小程序](https://github.com/johncalvinroberts/bork-mini-program)
 - [sdb-mall: 直播小程序拼团商城](https://github.com/yjjdick/sdb-mall)
+- [scrum-planning: Scrum敏捷估算](https://github.com/yociduo/scrum-planning-poker)
 
 ### 开源组件
 
