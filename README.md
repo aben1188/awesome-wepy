@@ -189,6 +189,7 @@
 - [wepy-compiler-stylus: wepy框架stylus编译插件](https://github.com/fengxinming/wepy-compiler-stylus)
 - [让PhpStorm/WebStorm全面支持WePY的开发](http://wepy.iniself.com)
 - [bee-cli：基于蘑菇街min-cli移植的一套wepy小程序组件化解决方案](https://github.com/biosan-frontEnd/bee-cli)
+- [TCB in WePY: 集成了云开发的 WePY 模板](https://github.com/CloudKits/wepy-tcb-demo)
 
 ### 相关文章
 
