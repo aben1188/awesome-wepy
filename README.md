@@ -86,6 +86,7 @@
 - [sdb-mall: 直播小程序拼团商城](https://github.com/yjjdick/sdb-mall)
 - [scrum-planning: Scrum敏捷估算](https://github.com/yociduo/scrum-planning-poker)
 - [wechat-qipaceyan: 奇葩小测验](https://github.com/AJLoveChina/wechat-qipaceyan)
+- [weapp-poem: 诗词墨客](https://github.com/huangjianke/weapp-poem)
 
 ### 开源组件
 
