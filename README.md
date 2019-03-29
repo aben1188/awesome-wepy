@@ -87,6 +87,7 @@
 - [scrum-planning: Scrum敏捷估算](https://github.com/yociduo/scrum-planning-poker)
 - [wechat-qipaceyan: 奇葩小测验](https://github.com/AJLoveChina/wechat-qipaceyan)
 - [weapp-poem: 诗词墨客](https://github.com/huangjianke/weapp-poem)
+- [233次元：基于wepy和云开发的二次元动漫资讯小程序](https://github.com/233point/applet)
 
 ### 开源组件
 
