@@ -89,6 +89,7 @@
 - [weapp-poem: 诗词墨客](https://github.com/huangjianke/weapp-poem)
 - [233次元：基于wepy和云开发的二次元动漫资讯小程序](https://github.com/233point/applet)
 - [sea-ai: 基于wepy和云开发的图像智能Ai小程序(接入百度AI平台)](https://github.com/lxljl/sea-ai)
+- [xb-song: 基于wepy开发的简约好看古诗词小程序](https://github.com/hary-hug/xb-book)
 
 ### 开源组件
 
