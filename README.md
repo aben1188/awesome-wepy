@@ -216,6 +216,5 @@
 
 ### 特别推荐
 
-- [微信小程序开发资源精选网址导航(网址大全)](http://www.yimijili.com/xcxwzdh.html) :100:
-
+- :100: [跨平台多端应用前端框架uni-app一站式开发资源汇总](https://github.com/aben1188/awesome-uni-app)
 
