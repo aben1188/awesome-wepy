@@ -18,7 +18,7 @@
 	- 相关费用全部由贵方负责，每月固定费用1000元+我方收取收入的10%；
 	- 相关费用全部由我方负责，我方收取收入的30%~60%；
 	- 其他合作方式：具体项目具体协商。
- -->
+
 ### :point_right: 月付20K以上找小程序/小游戏兼职程序员或外包团队
 - **报酬：** 报酬可按周支付，同时可按收入分成，收入上不封顶
 - **要求：**
@@ -32,7 +32,7 @@
 ![image](https://github.com/aben1188/CommonResources/blob/master/JackyLinWXQR.jpg)
 
 ---
-
+ -->
 ### 开源项目
 
 - [wepy-wechat-demo：基于wepy开发的仿微信聊天界面小程序](https://github.com/wepyjs/wepy-wechat-demo)
