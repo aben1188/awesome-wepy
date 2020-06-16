@@ -141,6 +141,9 @@
 	- [wepy-com-paper-drawer: 基于wepy的简洁帅气drawer组件](https://github.com/johncalvinroberts/wepy-com-paper-drawer)
 	- [wepy-notice-bar：一个可以滚动的通知栏](https://github.com/Liqiankun/wepy-notice-bar)
 	- [wepy-datetime: 一个日期时间选择组件](https://github.com/threeq/wepy-datetime)
+	- [wepy2-com-dialog：基于wepy2的Dialog组件](https://github.com/fudiwei/wepy2-com-dialog)
+	- [wepy2-com-toast：基于wepy2的Toast组件](https://github.com/fudiwei/wepy2-com-toast)
+	- [wepy2-com-loading：基于wepy2的Loading组件](https://github.com/fudiwei/wepy2-com-loading)
 	
 - **功能类组件**
 	- [wepyx: 基于 redux 的数据层管理框架](https://github.com/tolerance-go/wepyx)
