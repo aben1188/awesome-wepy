@@ -2,7 +2,7 @@
 ### **awesome-wepy，awesome for wepy！**
 
 - [wepy官方仓库](https://github.com/Tencent/wepy)
-- [wepy官方文档](https://tencent.github.io/wepy/document.html)
+- [wepy官方文档](https://wepyjs.github.io/wepy-docs/)
 - [微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 - [微信小游戏官方文档](https://developers.weixin.qq.com/minigame/dev/)
 
