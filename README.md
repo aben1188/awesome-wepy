@@ -1,8 +1,8 @@
-## 微信小程序wepy框架开发资源汇总 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+## 微信小程序WePY框架开发资源汇总 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ### **awesome-wepy，awesome for wepy！**
 
-- [wepy官方仓库](https://github.com/Tencent/wepy)
-- [wepy官方文档](https://wepyjs.github.io/wepy-docs/)
+- [WePY官方仓库](https://github.com/Tencent/wepy)
+- [WePY官方文档](https://wepyjs.github.io/wepy-docs/)
 - [微信小程序官方文档](https://developers.weixin.qq.com/miniprogram/dev/framework/)
 - [微信小游戏官方文档](https://developers.weixin.qq.com/minigame/dev/)
 
@@ -32,7 +32,7 @@
 ![image](https://github.com/aben1188/CommonResources/blob/master/JackyLinWXQR.jpg)
  -->
 
-### 欢迎关注“刨根究底学编程”微信公众号
+### :point_right: 欢迎关注“刨根究底学编程”微信公众号
 
 - [码农心中永远的痛，除了月饼和996，还有什么？](https://mp.weixin.qq.com/s?__biz=MzI1ODcxNDcyNw==&mid=2247483778&idx=1&sn=8401789ab8b6ba04d3ec405811815c1d&chksm=ea02bc8add75359ca886ce4e460f0b84daca0d7aa938f849972db70dd3f16b2a38eb9109d229&token=550170726&lang=zh_CN&scene=21#wechat_redirect)
 
@@ -103,7 +103,7 @@
 - [xb-song: 基于wepy开发的简约好看古诗词小程序](https://github.com/hary-hug/xb-book)
 - [fashion-mall：服装购物商城，基于 wepy，有本地服务器可测试学习](https://github.com/weimingwill/fashion-mall)
 
-### 开源组件
+### WePY开源组件
 
 - **UI类组件**
 
@@ -188,7 +188,7 @@
 	- [wepy_canvas_drawer: 微信小程序上canvas绘制图片助手，一个json就制作分享朋友圈图片](https://github.com/simmzl/wepy_canvas_drawer)
 	- [wepy-plugin-iview: wepy更轻松地使用iview-weapp](https://github.com/jardenliu/wepy-plugin-iview.git)
 	
-### 相关工具
+### WePY相关工具
 
 - [WeWeb：兼容微信小程序语法(包括wepy语法)的Web框架](https://github.com/wdfe/weweb)
 - [wepy-plugin-autoprefixer：wepy框架autoprefixer插件](https://github.com/li-xianfeng/wepy-plugin-autoprefixer)
@@ -211,7 +211,7 @@
 - [TCB in WePY: 集成了云开发的 WePY 模板](https://github.com/CloudKits/wepy-tcb-demo)
 - [compile2ant: wepy2.0编译为支付宝小程序插件](https://github.com/SpringHgui/compile2ant)
 
-### 相关文章
+### WePY相关文章
 
 - [yingye(20180518)：深入wepy源码：wepy运行原理分析](https://github.com/yingye/Blog/issues/4)
 - [yingye(20180511)：深入wepy源码：wpy文件编译过程](https://github.com/yingye/Blog/issues/3)
