@@ -44,7 +44,7 @@
 
 ---
  
-### 开源项目
+### WePY开源项目
 
 - [wepy-wechat-demo：基于wepy开发的仿微信聊天界面小程序](https://github.com/wepyjs/wepy-wechat-demo)
 - [深大的树洞：基于wepy开发的树洞类微信小程序](https://github.com/jas0ncn/szushudong)
