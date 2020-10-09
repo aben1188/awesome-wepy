@@ -32,7 +32,7 @@
 ![image](https://github.com/aben1188/CommonResources/blob/master/JackyLinWXQR.jpg)
  -->
 
-## :point_right: 欢迎关注“刨根究底学编程”微信公众号
+#### :point_right: 欢迎关注“刨根究底学编程”微信公众号
 
 - [码农心中永远的痛，除了月饼和996，还有什么？](https://mp.weixin.qq.com/s?__biz=MzI1ODcxNDcyNw==&mid=2247483778&idx=1&sn=8401789ab8b6ba04d3ec405811815c1d&chksm=ea02bc8add75359ca886ce4e460f0b84daca0d7aa938f849972db70dd3f16b2a38eb9109d229&token=550170726&lang=zh_CN&scene=21#wechat_redirect)
 - [刨根究底CSS](https://mp.weixin.qq.com/s?__biz=MzI1ODcxNDcyNw==&mid=2247483778&idx=2&sn=3776910914f4e8f6fbf9b88cb2858c7f&chksm=ea02bc8add75359cb87cb4fc283d384a5285fcd653ff0a509c184d59715542cdd344d4c380ad&token=550170726&lang=zh_CN&scene=21#wechat_redirect)
