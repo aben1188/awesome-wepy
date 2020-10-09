@@ -30,9 +30,19 @@
 ### :exclamation: 欢迎微信扫码联系(请务必注明“小程序”或“小游戏”以通过验证)：
 
 ![image](https://github.com/aben1188/CommonResources/blob/master/JackyLinWXQR.jpg)
+ -->
+
+### 欢迎关注“刨根究底学编程”微信公众号
+
+- [码农心中永远的痛，除了月饼和996，还有什么？](https://mp.weixin.qq.com/s?__biz=MzI1ODcxNDcyNw==&mid=2247483778&idx=1&sn=8401789ab8b6ba04d3ec405811815c1d&chksm=ea02bc8add75359ca886ce4e460f0b84daca0d7aa938f849972db70dd3f16b2a38eb9109d229&token=550170726&lang=zh_CN&scene=21#wechat_redirect)
+
+- [刨根究底CSS](https://mp.weixin.qq.com/s?__biz=MzI1ODcxNDcyNw==&mid=2247483778&idx=2&sn=3776910914f4e8f6fbf9b88cb2858c7f&chksm=ea02bc8add75359cb87cb4fc283d384a5285fcd653ff0a509c184d59715542cdd344d4c380ad&token=550170726&lang=zh_CN&scene=21#wechat_redirect)
+
+- [刨根究底正则表达式](https://mp.weixin.qq.com/s?__biz=MzI1ODcxNDcyNw==&mid=2247483778&idx=3&sn=fdb05fbfa819a76c0e2385d2d30046ec&chksm=ea02bc8add75359c9c9554a463035420224ea1284f05014a9fd29b374443b91d9fb5ff590097&token=550170726&lang=zh_CN&scene=21#wechat_redirect)
+
+- [刨根究底字符编码](https://mp.weixin.qq.com/s?__biz=MzI1ODcxNDcyNw==&mid=2247483778&idx=4&sn=caf4028f7b847f7f3b63999d283af824&chksm=ea02bc8add75359c5df15837a92903963519ba59cd1da8252daaffeb1a817287b7521abd7881&token=550170726&lang=zh_CN&scene=21#wechat_redirect)
 
 ---
- -->
  
 ### 开源项目
 
