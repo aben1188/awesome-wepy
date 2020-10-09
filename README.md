@@ -1,5 +1,5 @@
 ## 微信小程序WePY框架开发资源汇总 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-### **awesome-wepy，awesome for wepy！**
+### **awesome-wepy，awesome for WePY！**
 
 - [WePY官方仓库](https://github.com/Tencent/wepy)
 - [WePY官方文档](https://wepyjs.github.io/wepy-docs/)
