@@ -30,7 +30,7 @@
 ### :exclamation: 欢迎微信扫码联系(请务必注明“小程序”或“小游戏”以通过验证)：
 
 ![image](https://github.com/aben1188/CommonResources/blob/master/JackyLinWXQR.jpg)
- -->
+
 
 #### :point_right: “刨根究底学编程”微信公众号文章推荐
 
@@ -40,7 +40,8 @@
 - [刨根究底字符编码](https://mp.weixin.qq.com/s?__biz=MzI1ODcxNDcyNw==&mid=2247483778&idx=4&sn=caf4028f7b847f7f3b63999d283af824&chksm=ea02bc8add75359c5df15837a92903963519ba59cd1da8252daaffeb1a817287b7521abd7881&token=550170726&lang=zh_CN&scene=21#wechat_redirect)
 
 ---
- 
+-->
+
 ### WePY开源项目
 
 - [wepy-wechat-demo：基于wepy开发的仿微信聊天界面小程序](https://github.com/wepyjs/wepy-wechat-demo)
