@@ -100,6 +100,7 @@
 - [sea-ai: 基于wepy和云开发的图像智能Ai小程序(接入百度AI平台)](https://github.com/lxljl/sea-ai)
 - [xb-song: 基于wepy开发的简约好看古诗词小程序](https://github.com/hary-hug/xb-book)
 - [fashion-mall：服装购物商城，基于 wepy，有本地服务器可测试学习](https://github.com/weimingwill/fashion-mall)
+- [bortusweapp: 基于wepy2开发的微信官方案例](https://github.com/OrvilleX/BortusWeApp)
 
 ### WePY开源组件
 
